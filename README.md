@@ -16,6 +16,6 @@ The scraper only accept one required parameter which is the absolute URL of the 
 The scraper extract first name, last name, full name, public profile URL, company name, company profile URL.
 
 ## Purchase
-If you're interesting to purchase this scraper, please drop me a message here: http://pph.me/baazzilhassan hit the contact button OR via my email, you can find it in my Github profile: https://github.com/jbinfo
+If you're interesting to purchase this scraper, please drop me a message here: http://pph.me/baazzilhassan hit the contact button OR via my email address, you can find it in my Github profile: https://github.com/jbinfo
 
 You can customize the scraper, just be more specific in you message, in order to undertand your requirements, thank you.
