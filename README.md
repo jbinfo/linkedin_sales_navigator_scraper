@@ -13,7 +13,15 @@ The scraper is based on the Scrapy framework http://scrapy.org, right now it's o
 The scraper only accept one required parameter which is the absolute URL of the search query result in the LinkedIn Sales Navigator.
 
 #### Data
-The scraper extract first name, last name, full name, public profile URL, location, current position, company name, company profile URL.
+The scraper extract these fields:
+- First name
+- Last name 
+- Full name
+- Public profile URL
+- Location
+- Current position
+- Company name
+- Company profile URL
 
 ## Purchase
 If you're interesting to purchase this scraper, please drop me a message here: http://pph.me/baazzilhassan hit the contact button OR via my email address, you can find it in my Github profile: https://github.com/jbinfo
