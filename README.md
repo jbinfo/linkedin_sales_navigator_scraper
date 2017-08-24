@@ -19,3 +19,8 @@ The scraper extract first name, last name, full name, public profile URL, compan
 If you're interesting to purchase this scraper, please drop me a message here: http://pph.me/baazzilhassan hit the contact button OR via my email address, you can find it in my Github profile: https://github.com/jbinfo
 
 You can customize the scraper, just be more specific in you message, in order to undertand your requirements, thank you.
+
+## Support
+The scraper come with a documentation.
+
+I will assist you in installing and configuring the scraper in your machine/server and run it together until you see data in the output file.
