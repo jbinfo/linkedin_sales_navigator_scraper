@@ -1,4 +1,4 @@
-# LinkedIn Sales Navigator Scraper
+# LinkedIn Sales Navigator Scraper / Extractor
 
 ## Description
 A scraper tool that automate the extracting data from the LinkedIn Sales Navigator.
