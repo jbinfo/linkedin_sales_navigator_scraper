@@ -1,7 +1,7 @@
 # LinkedIn Sales Navigator Scraper / Extractor
 
 ## Description
-A scraper tool that automate the extracting data from the LinkedIn Sales Navigator.
+A scraper tool that automate the extracting of leads and accounts from LinkedIn Sales Navigator.
 
 The scraper is based on the Scrapy framework [http://scrapy.org](http://scrapy.org), right now it's only running on CLI(terminal).
 
@@ -13,7 +13,7 @@ The scraper is based on the Scrapy framework [http://scrapy.org](http://scrapy.o
 The scraper only accept one required parameter which is the absolute URL of the search query result in the LinkedIn Sales Navigator.
 
 #### Data
-The scraper extract these fields:
+Leads extractor, extract these fields:
 - First name
 - Last name 
 - Full name
@@ -23,10 +23,31 @@ The scraper extract these fields:
 - Company name
 - Company profile URL
 
-## Purchase
-If you're interesting to purchase this scraper, please drop me a message here: [http://pph.me/baazzilhassan](http://pph.me/baazzilhassan) hit the contact button OR via my email address, you can find it in my Github profile: [https://github.com/jbinfo](https://github.com/jbinfo)
+Accounts extractor, extract these fields:
+- companyId
+- name
+- companyType
+- emails => ONLY IF COMPANY DESCRIPTION CONTAINS EMAILS!!
+- size
+- industry
+- location
+- country
+- geographicArea
+- city
+- postalCode
+- line2
+- line1
+- founded
+- followerCount
+- website
+- staffCount
+- description
+- profileLink
 
-You can customize the scraper, just be more specific in you message, in order to undertand your requirements, thank you.
+## Purchase
+If you’re interesting to purchase this tool, please follow this link http://goo.gl/xqeQU2 and click on the buy button, money is in escrow until you’re satisfied and then accept the invoice.
+
+You can customize this tool, by extracting more data or integrating some APIs to look for emails or push extracted leads to a CRM, you can drop me a message via the contact button on this page http://goo.gl/xqeQU2, just be more specific in you message, in order to understand your requirements, thank you.
 
 ## Support
 The scraper come with a documentation.
