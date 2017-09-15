@@ -45,9 +45,9 @@ Accounts extractor, extract these fields:
 - profileLink
 
 ## Purchase
-If you’re interesting to purchase this tool, please follow this link http://goo.gl/xqeQU2 and click on the buy button, money is in escrow until you’re satisfied and then accept the invoice.
+If you’re interesting to purchase this tool, please follow this link [http://goo.gl/xqeQU2](http://goo.gl/xqeQU2) and click on the buy button, money is in escrow until you’re satisfied and then accept the invoice.
 
-You can customize this tool, by extracting more data or integrating some APIs to look for emails or push extracted leads to a CRM, you can drop me a message via the contact button on this page http://goo.gl/xqeQU2, just be more specific in you message, in order to understand your requirements, thank you.
+You can customize this tool, by extracting more data or integrating some APIs to look for emails or push extracted leads to a CRM, you can drop me a message via the contact button on this page [http://goo.gl/xqeQU2](http://goo.gl/xqeQU2), just be more specific in you message, in order to understand your requirements, thank you.
 
 ## Support
 The scraper come with a documentation.
